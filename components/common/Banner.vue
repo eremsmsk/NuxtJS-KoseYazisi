@@ -15,7 +15,7 @@
 </template>
 <style scoped>
 .bg {
-  background-image: url(bg.jpg);
+  background-image: url(../../static/images/bg.jpg);
   height: 300px;
   position: relative;
 }
