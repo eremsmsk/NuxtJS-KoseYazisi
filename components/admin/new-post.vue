@@ -4,8 +4,8 @@
 <script>
 import PostForm from "@/components/admin/PostForm"
 export default {
-components: {
-    PostForm
-}
+   components: {
+       PostForm
+   } 
 }
 </script>
