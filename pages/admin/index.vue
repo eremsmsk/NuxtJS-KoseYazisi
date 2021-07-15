@@ -3,7 +3,7 @@
       <div class="container d-flex justify-content-center align-items-center">
   <button @click="$router.push('/admin/new-post')" class="btn btn-dark">Yeni Bir Yazı Ekle</button>
 </div>
-    <PostList />
+    <PostList :is-admin="true" />
   </div>
 </template>
 <style scoped>
