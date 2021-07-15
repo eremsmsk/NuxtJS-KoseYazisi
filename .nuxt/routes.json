@@ -2,43 +2,43 @@
   {
     "name": "admin",
     "path": "/admin",
-    "component": "D:\\\\Software\\\\NuxtJs\\\\NuxtJS-KoseYazisi\\\\pages\\\\admin\\\\index.vue",
+    "component": "/home/mrsmsk/PhpstormProjects/NuxtJS-KoseYazisi/pages/admin/index.vue",
     "chunkName": "pages/admin/index",
-    "_name": "_272dc40c"
+    "_name": "_53ef9a9e"
   },
   {
     "name": "posts",
     "path": "/posts",
-    "component": "D:\\\\Software\\\\NuxtJs\\\\NuxtJS-KoseYazisi\\\\pages\\\\posts\\\\index.vue",
+    "component": "/home/mrsmsk/PhpstormProjects/NuxtJS-KoseYazisi/pages/posts/index.vue",
     "chunkName": "pages/posts/index",
-    "_name": "_9ca22a14"
+    "_name": "_bad25396"
   },
   {
     "name": "admin-new-post",
     "path": "/admin/new-post",
-    "component": "D:\\\\Software\\\\NuxtJs\\\\NuxtJS-KoseYazisi\\\\pages\\\\admin\\\\new-post.vue",
+    "component": "/home/mrsmsk/PhpstormProjects/NuxtJS-KoseYazisi/pages/admin/new-post.vue",
     "chunkName": "pages/admin/new-post",
-    "_name": "_23a84335"
+    "_name": "_29d841c4"
   },
   {
     "name": "admin-postId",
     "path": "/admin/:postId",
-    "component": "D:\\\\Software\\\\NuxtJs\\\\NuxtJS-KoseYazisi\\\\pages\\\\admin\\\\_postId\\\\index.vue",
+    "component": "/home/mrsmsk/PhpstormProjects/NuxtJS-KoseYazisi/pages/admin/_postId/index.vue",
     "chunkName": "pages/admin/_postId/index",
-    "_name": "_2ee4d620"
+    "_name": "_246ac6dc"
   },
   {
     "name": "posts-postId",
     "path": "/posts/:postId",
-    "component": "D:\\\\Software\\\\NuxtJs\\\\NuxtJS-KoseYazisi\\\\pages\\\\posts\\\\_postId\\\\index.vue",
+    "component": "/home/mrsmsk/PhpstormProjects/NuxtJS-KoseYazisi/pages/posts/_postId/index.vue",
     "chunkName": "pages/posts/_postId/index",
-    "_name": "_f4a036b8"
+    "_name": "_ee20b340"
   },
   {
     "name": "index",
     "path": "/",
-    "component": "D:\\\\Software\\\\NuxtJs\\\\NuxtJS-KoseYazisi\\\\pages\\\\index.vue",
+    "component": "/home/mrsmsk/PhpstormProjects/NuxtJS-KoseYazisi/pages/index.vue",
     "chunkName": "pages/index",
-    "_name": "_b895ccea"
+    "_name": "_215492b1"
   }
 ]
